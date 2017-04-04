@@ -1,0 +1,24 @@
+.hcontainer{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+.heading1{
+  color: #D90368;
+  font-size: 120px;
+  font-weight: normal;
+  font-family: 'Slabo 27px', serif;
+}
+.bannercolumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading2{
+  color: #820263;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: 'Slabo 27px', serif;
+}
